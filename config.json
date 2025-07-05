@@ -1,0 +1,30 @@
+
+{
+  "feeds": [
+    "https://www.gazzetta.it/rss/home.xml",
+    "https://www.eurosport.it/rss.xml",
+    "https://www.skysport.it/rss/calcio.xml",
+    "https://www.motorsport.com/rss/news.xml",
+    "https://www.ilpost.it/feed/",
+    "https://www.internazionale.it/rss",
+    "https://simpleflying.com/feed/",
+    "https://www.ansa.it/sito/ansait_rss.xml",
+    "https://www.rockol.it/rss",
+    "https://www.rollingstone.it/feed/",
+    "https://www.ilfattoquotidiano.it/feed/",
+    "https://gcnmagazine.com/feed/",
+    "https://www.repubblica.it/rss/homepage/rss2.0.xml",
+    "https://xml.corriereobjects.it/rss/homepage.xml",
+    "https://avherald.com/h?format=rss",
+    "https://www.eventim.it/rss/",
+    "https://www.ticketmaster.it/rss/",
+    "http://rss.cnn.com/rss/edition.rss",
+    "http://feeds.bbci.co.uk/news/rss.xml",
+    "https://cointelegraph.com/rss",
+    "https://cryptonews.com/news/feed"
+  ],
+  "keywords": [
+    "ciclismo", "sport", "calcio", "tennis", "f1", "motogp", "geopolitica",
+    "aviazione", "airbus", "boeing", "italia", "musica", "criptovalute", "bitcoin"
+  ]
+}
