@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: telegram-news-bot
+    env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "rss_gpt_bot.py"
+    environment:
+      pythonVersion: 3.11.4
